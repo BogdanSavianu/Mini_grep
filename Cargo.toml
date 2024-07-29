@@ -2,5 +2,7 @@
 name = "minigrep"
 version = "0.1.0"
 edition = "2021"
+description = "A mini application that aims to replicate the behavior of the grep shell command."
+license = "MIT OR Apache-2.0"
 
 [dependencies]
